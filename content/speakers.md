@@ -6,4 +6,6 @@ eleventyNavigation:
 
 # Invited Speakers
 
-TBA
+* Kathryn Davidson (Harvard)  
+* Henry Davis (UBC)  
+* Meghan Sumner (Stanford)

@@ -9,7 +9,7 @@ eleventyNavigation:
 ## Important Dates
 
 - **Abstract submission deadline**: 11:59pm PST on **Monday, December 2, 2024**
-- **Abstract notification time (estimated)**: January 31, 2025
+- **Abstract notification time (estimated)**: ~~January 31~~ February 7, 2025
 
 ## Presentation Format
 
