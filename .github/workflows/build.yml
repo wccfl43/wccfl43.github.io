@@ -23,19 +23,9 @@ jobs:
         run: |
           npm install
           npx @11ty/eleventy
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          path: '.'
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Auto-push new site build"
+          git push
