@@ -11,12 +11,23 @@ eleventyNavigation:
 Here are a couple lodging options near campus. Many other options are available throughout the city. Note: Many hotels in Seattle are 100% non-smoking. Note also that smoking is not allowed in restaurants or bars in Seattle. Nor is it allowed on the UW campus, except in a few designated areas.
 
 ### Conference hotel blocks
-[Basia will add info about hotel blocks booked for conference]
-- Stained Pineapple Watertown
-  - Address
-  - Guests must call before [Wednesday ?]
-  - 30 rooms available at conference pricing
-- University Inn
+- We have two options for discounted hotel blocks for the conference:
+  - [The Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa)
+  - [The University Inn](https://www.staypineapple.com/university-inn-seattle-wa)
+
+For both,
+  - The price comes to $225 per room per night for single or double occupancy, with an extgra $20 for additional declared guests.
+  - We have 30 rooms set aside for us
+  - They will no longer be reserved for the conference come March 26, 2025; at that point the rooms may be taken by anyone (you can still call to find out if WCCFL rooms remain available though!)
+
+To reserve a room at the hotel with the conference rate:
+1. Call 866-866-7977 (same number for either hotel)
+2. Reference UW Linguistics - 43rd West Coast Conference on Formal Linguistics
+3. We have the rooms for arrival Thursday, April 24, 2025 and departure on Sunday, April 27, 2025
+OR
+1. Go to the website for the hotel you would like to stay at, [The Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) or [The University Inn](https://www.staypineapple.com/university-inn-seattle-wa)
+2. Choose the dates April 24 - April 27
+3. Under Special Rates / Codes, change the Type to be "Group code" and add the group code: [we are still waiting to find out what the code is!]
 
 ### Other options
 - College Inn
@@ -31,10 +42,14 @@ We're excited to welcome you to Seattle!
 A couple basic things about transit in Seattle:
 - We have one main train, a light rail, a.k.a. the Link, a.k.a. the 1 (line)
 - If you fly in, you can get an OrcaPass at a kiosk and get on the light rail, north to toward Lynnwood Station
+- Alternatively, you can get the Transit Go app, and choose Train > Link line 1 & 2, and purchase a ticket. This app can also be used to buy and use bus tickets (Bus > King County Metro). If you want to pay on the bus, know that the fare is $2.75 and the drivers don't carry change!
 - The University of Washington is accessible easily through the University of Washington and University District light rail stations
 - You can use the light rail to easily access quite a bit of Seattle! There are some parts harder to get to because the light rail runs strictly north-to-south; there are some buses that can pretty straightforwardly get you to neighborhoods like Fremont and Ballard
+- Much of Seattle is on a very neat grid aligned with the cardinal directions! Very convenient! This led to a systematic numbering system that has the downside of being somewhat annoying, though: there are Streets, which run East-West, and Avenues, which run North-South*. They are both labelled for which quadrant they are in, if they aren't quite central, with streets taking their direction before and avenues after (NE 65th Street, 47th Avenue SW). If there needs to be a direction, you need to make sure you add it because you might get sent across one or both axes of the city! 
+- The buses that will best get you to campus are probably: 67, 372, 45/75, 48, 31, 32, 79, 255, 44, 271, 542, 556 (and Google Maps should have you covered more or less for routing specifics)
 
-Seattle has many neighborhoods with very distinct personalities that we hope you get to explore. The conference will be taking place on the University of Washington campus, which is located in a neighborhood called U(niversity) District. Just north of campus are the neighborhoods of Roosevelt and Ravenna, where you can find Ravenna and Cowen Park. Northwest of the university is University Village, where you can do some shopping
+
+Seattle has many neighborhoods with very distinct personalities that we hope you get to explore. The conference will be taking place on the University of Washington campus, which is located in/next to a neighborhood called U(niversity )District. Just north of campus are the neighborhoods of Roosevelt and Ravenna, where you can find Ravenna and Cowen Park. Northwest of the university is University Village, where you can do some shopping and check out some nicer restaurants. Capitol Hill is a neighborhood with lots of character, in the day as well as the night, so you might consider taking the Link down there to shop, eat, or hang out.
 
 
 ## Food
@@ -195,4 +210,4 @@ Below are a few recommended restaurants, delineated by neighborhood and cuisine 
 - Museum of Pop Culture
 - Pacific Science Center
 - Chihuly Garden and Glass (blown-glass sculpture museum)
-- On Sunday 10-3, the Connections Museum, south of downtown is a fun place to learn about old telecommunications systems with working telephones from the ~distant past~
+- On Sunday 10-3, the [Connections Museum](https://www.telcomhistory.org/connections-museum-seattle/), south of downtown is a fun place to learn about old telecommunications systems with working telephones from the ~distant past~
