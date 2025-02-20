@@ -25,3 +25,4 @@ eleventyNavigation:
    *  Enter the amount you are paying.  
    *  Enter ‘WCCFL43’ as the invoice number on the second screen.  
 2. Additional registration information: we kindly ask that you fill out [this Google form](https://forms.gle/v2yW7GxqXv4cFHiG9) with additional information on accommodations, meal choice, and the like.
+3. If you would like to request any special accommodations, please let us know (via the form linked above) no later than **April 1, 2025**.
