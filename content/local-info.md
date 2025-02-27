@@ -20,14 +20,15 @@ For both,
   - We have 30 rooms set aside for us
   - They will no longer be reserved for the conference come March 26, 2025; at that point the rooms may be taken by anyone (you can still call to find out if WCCFL rooms remain available though!)
 
-To reserve a room at the hotel with the conference rate:
-1. Call 866-866-7977 (same number for either hotel)
-2. Reference UW Linguistics - 43rd West Coast Conference on Formal Linguistics
-3. We have the rooms for arrival Thursday, April 24, 2025 and departure on Sunday, April 27, 2025
-OR
-1. Go to the website for the hotel you would like to stay at, [The Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) or [The University Inn](https://www.staypineapple.com/university-inn-seattle-wa)
-2. Choose the dates April 24 - April 27
-3. Under Special Rates / Codes, change the Type to be "Group code" and add the group code: [we are still waiting to find out what the code is!]
+To reserve a room at the hotel with the conference rate, there are a few methods:
+1. (Easiest) Use one of these booking links: [The Watertown Hotel](https://app.mews.com/distributor/c1fd0d7e-b53b-49ec-a175-b1bc00d2f63b?mewsAvailabilityBlockId=6d4eada8-cbe7-4a86-9e38-b23c0146d3e8&mewsStart=2025-) or [University Inn](https://app.mews.com/distributor/d64aaa0c-8646-43b3-bd52-b110009f75ec?mewsAvailabilityBlockId=045737cb-e72b-4d03-b5ed-b23c014919ee&mewsStart=2025-04-24&mewsEnd=2025-04-27)
+2. Call 866-866-7977 (same number for either hotel)
+    1. Reference "UW Linguistics - 43rd West Coast Conference on Formal Linguistics"
+    2. We have the rooms for arrival Thursday, April 24, 2025 and departure on Sunday, April 27, 2025
+3. Go to the website for the hotel you would like to stay at, [The Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) or [The University Inn](https://www.staypineapple.com/university-inn-seattle-wa)
+    1. Choose the dates April 24 - April 27
+    2. Under Special Rates / Codes, change the Type to be "Group code" and add the group code: "UW Linguistics - 43rd West Coast Conference"
+
 
 ### Other options
 - College Inn
