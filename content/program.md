@@ -204,7 +204,7 @@ eleventyNavigation:
     <td colspan="2" class="text-center">10:30-11 Coffee Break</td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center">11-12:30 Poster session</td>
+    <td colspan="2" class="text-center">11-12:30 <a href="#list-of-posters">Poster session</a></td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">12:30-2 pm Lunch Break (on own)</td>
@@ -263,7 +263,7 @@ eleventyNavigation:
 
 ## Sunday, April 27th, 2025
 
-<table class="table">
+<table class="table mb-5">
   <tr>
     <td colspan="2" class="text-center">8:30 am - 9 am Coffee and registration</td>
   </tr>
@@ -312,6 +312,110 @@ eleventyNavigation:
     <td colspan="2" class="text-center">12 - 1 Closing and Business Meeting</td>
   </tr>
 </table>
+
+## List of Posters
+
+Re: configurational verbs  
+**Ryan Walter Smith**
+
+Possessor agreement: Exploring Cross-Linguistic Variation  
+**Dimitris Michelioudakis, Nikos Angelopoulos, Elena Anagnostopoulou** 
+
+Nandao-Qs: When Suprise Sparks Inquiry  
+**Anshun Zheng** 
+
+Cyclic Prosodification in Japanese  
+**Yosho Miyata** 
+
+Differentiating between generic and actualized eventualities in Alashkert Armenian  
+**Mariam Asatryan** 
+
+"Bleeding" Condition C in Kanien'kéha  
+**Chase Boles**
+
+Capturing Modal Base Polarity with Mandarin wh-indefinites  
+**Carlos Cisneros, Anqi Zhang** 
+
+A transparent reanalysis of self-destructive feeding  
+**Yuxuan Melody Wang** 
+
+Scrambling through the Looking Glass: Two Types of Movement across Weak Islands  
+**Zhiyu Mia Gong** 
+
+Deriving (non)agreement in Welsh  
+**Calvin Quick** 
+
+An argument against non-constituent ellipsis  
+**Dongwoo Park** 
+
+The morphotactics of the Limbu verb: A postsyntactic analysis of the suffix domain  
+**Doreen Georgi, Andrew Murphy** 
+
+Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)  
+**Daniar Kasenov, Ivan Kalyakin** 
+
+Recursion in NP: pseudopartitive measures require complementation, not specification  
+**Malhaar Shah** 
+
+Ordering postsyntactic operations within domains  
+**Zhouyi Sun, Peter Grishin** 
+
+Allocutive agreement and indexicals Shift Together, but not always  
+**Thomas McFadden, Sandhya Sundaresan**
+
+Transitive subject relativization restriction in Northern Tujia and beyond  
+**Kang Franco Liu**
+
+Chinese gèng, English implicit comparison, and vagueness sharpening  
+**Florence Y.K. Zhang, Linmin Zhang** 
+
+Superlatives without \-est: Japanese Ichiban as an Exclusive Adverbial  
+**Jun Tamura**
+
+Context update with Cantonese sentence-final particle me1 and the role of falling tone  
+**Yingyu Su**
+
+Diagnosing modal clause structure with focus-sensitive operators in Mandarin Chinese  
+**Haoming Li**
+
+Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew  
+**Zhuosi Luo, Alison Biggs** 
+
+When your associates tag along: Associative plurality in Rural Iberian Spanish names  
+**Elango Kumaran, Luis Miguel Toquero Pérez**
+
+Instrument as internal subject: evidence from the verbs baad ‘cut’, maj ‘burn’, and pan ‘tie’ in Thai  
+**Danutham Worapipat** 
+
+Encoding Domain Restrictions via an Overt Situation Pronoun  
+**Yaqing Hu**
+
+‘Irrealis’ particle ji in Gitksan  
+**Yurika Aonuki** 
+
+The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach  
+**Fedor Golosov** 
+
+Perspective sensitive items (PSIs) affected by Indexical Shift: Indexical PSIs in Turkish  
+**Metehan Oğuz**
+
+Indeterminate determiners: a case study of Singlish prenominal relative clauses  
+**Si Kai Lee**
+
+The syntactic and semantic introduction of internal arguments  
+**Nikolas Webster**
+
+A parametric view on exclusive focus particles  
+**Ka-Fai Yip**
+
+Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation  
+**Yoshiki Fujiwara**
+
+(Un)conditionals in Japanese: A Question-based Approach  
+**Kimiko Nakanishi**
+
+Optimality Theory for Hong Kong Sign Language loan words  
+**Emily Koenders**
 
 
 <!--
