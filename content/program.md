@@ -29,7 +29,7 @@ eleventyNavigation:
     <p>
     Passivization, speech act participants, and third-person probes in Jarawara
     <br />
-    <strong>Yiannis Katochoritis, Magdalena Lohninger</strong>
+    <strong>Luke James Adamson, Ruth Kramer</strong>
     </p>
     <p>
     Non-active syntax and argumental for-phrases in Italian tough-constructions
