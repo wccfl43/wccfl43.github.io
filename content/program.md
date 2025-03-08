@@ -135,13 +135,13 @@ eleventyNavigation:
     </p>
     </td>
     <td>
+      <p>
+      Two types of non-structural case: Evidence from ATB movement in Modern Greek
+      <br />
+      <strong>Doreen Georgi, Lefteris Paparounas, Martin Salzmann</strong>
+      </p>
     <p>
-    Examining Island Effects with NP-Scrambling out of Four Types of Adjunct Clauses in Japanese
-    <br />
-    <strong>Shin Fukuda, Hajime Ono</strong>
-    </p>
-    <p>
-    A′-movement restrictions in Igbo reanalyzed
+    A'-movement restrictions in Igbo reanalyzed
     <br />
     <strong>Jasper Jian, Martina Martinovic</strong>
     </p>
@@ -193,11 +193,11 @@ eleventyNavigation:
       <br />
       <strong>Brian Hsu</strong>
       </p>
-      <p>
-      Two types of non-structural case: Evidence from ATB movement in Modern Greek
-      <br />
-      <strong>Doreen Georgi, Lefteris Paparounas, Martin Salzmann</strong>
-      </p>
+    <p>
+    Examining Island Effects with NP-Scrambling out of Four Types of Adjunct Clauses in Japanese
+    <br />
+    <strong>Shin Fukuda, Hajime Ono</strong>
+    </p>
     </td>
   </tr>  
   <tr>
