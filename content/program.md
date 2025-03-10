@@ -417,6 +417,10 @@ Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation
 Optimality Theory for Hong Kong Sign Language loan words  
 **Emily Koenders**
 
+An argument for Syntactic Reconstruction: Distributivity as Variable Binding  
+**Yiannis Katochoritis**
+
+ 
 
 <!--
 
