@@ -66,7 +66,7 @@ eleventyNavigation:
   </tr>
   <tr>
     <td>Session 2A: 1:30 - 3:30pm <br /> special session on sign language linguistics</td>
-    <td>Session 2B: 1:30 - 3:00pm</td>
+    <td>Session 2B: 1:30 - 3:30pm</td>
   </tr>
   <tr>
   <td>
@@ -107,6 +107,11 @@ eleventyNavigation:
   <br />
   <strong>Elena Isolani</strong>
   </p>
+    <p>
+    "Non-local A-movement" is predicted to exist, and it does
+    <br />
+    <strong>Giovanni Roversi</strong>
+    </p>
   </td>
   </tr>
   <tr>
@@ -114,7 +119,7 @@ eleventyNavigation:
   </tr>
   <tr>
     <td>Session 3A: 4-5:30pm</td>
-    <td>Session 3B: 4-5:30pm</td>
+    <td>Session 3B: 4-5:00pm</td>
   </tr>
   <tr>
     <td>
@@ -144,11 +149,6 @@ eleventyNavigation:
     A'-movement restrictions in Igbo reanalyzed
     <br />
     <strong>Jasper Jian, Martina Martinovic</strong>
-    </p>
-    <p>
-    "Non-local A-movement" is predicted to exist, and it does
-    <br />
-    <strong>Giovanni Roversi</strong>
     </p>
     </td>
   </tr>
@@ -268,7 +268,7 @@ eleventyNavigation:
     <td colspan="2" class="text-center">8:30 am - 9 am Coffee and registration</td>
   </tr>
   <tr>
-    <td>Session 7A: 9 - 10:30am</td>
+    <td>Session 7A: 9 - 10:00am</td>
     <td>Session 7B: 9 - 10:30am</td>
   </tr>
   <tr>
