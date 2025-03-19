@@ -336,7 +336,7 @@ Differentiating between generic and actualized eventualities in Alashkert Armeni
 Capturing Modal Base Polarity with Mandarin wh-indefinites  
 **Carlos Cisneros, Anqi Zhang** 
 
-A transparent reanalysis of self-destructive feeding  
+Do we need self-destructive feeding  
 **Yuxuan Melody Wang** 
 
 Scrambling through the Looking Glass: Two Types of Movement across Weak Islands  
