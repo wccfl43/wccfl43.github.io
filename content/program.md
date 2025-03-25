@@ -59,7 +59,11 @@ eleventyNavigation:
     <td colspan="2" class="text-center">10:30 - 11 Coffee Break</td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center"><strong>11-12 Keynote 1: Kathryn Davidson</strong></td>
+    <td colspan="2" class="text-center">
+      <strong>11-12 Keynote 1: Kathryn Davidson</strong>
+      <br />
+      Quantification and depicting predicates in ASL
+    </td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">12-1:30 pm Lunch Break (on own)</td>
@@ -306,7 +310,11 @@ eleventyNavigation:
     <td colspan="2" class="text-center">10:30 - 11 am Coffee Break</td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center"><strong>11- 12 pm Keynote: Henry Davis</strong></td>
+    <td colspan="2" class="text-center">
+      <strong>11- 12 pm Keynote: Henry Davis</strong>
+      <br />
+      Minimal Morphology: Evidence from Clitic Systems 
+    </td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">12 - 1 Closing and Business Meeting</td>
