@@ -69,16 +69,18 @@ eleventyNavigation:
     <td colspan="2" class="text-center">12-1:30 pm Lunch Break (on own)</td>
   </tr>
   <tr>
-    <td>Session 2A: 1:30 - 3:30pm <br /> special session on sign language linguistics</td>
-    <td>Session 2B: 1:30 - 3:30pm</td>
+    <td>Session 2A: 1:30 - 3:00pm <br /> special session on sign language linguistics</td>
+    <td>Session 2B: 1:30 - 3:00pm</td>
   </tr>
   <tr>
   <td>
+  <!--
   <p>
   Optimality Theory for Hong Kong Sign Language loan words
   <br />
   <strong>Emily Koenders</strong>
   </p>
+  -->
   <p>
   Negation in Sadat Tawaher Sign Language: A Formal Approach
   <br />
@@ -106,11 +108,6 @@ eleventyNavigation:
   <br />
   <strong>Katie McCann</strong>
   </p>
-  <p>
-  When the Parametric Comparison meets the CP: a preliminary taxonomy of Italo-Romance varieties
-  <br />
-  <strong>Elena Isolani</strong>
-  </p>
     <p>
     "Non-local A-movement" is predicted to exist, and it does
     <br />
@@ -119,11 +116,11 @@ eleventyNavigation:
   </td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center">3:30-4:00 Coffee Break</td>
+    <td colspan="2" class="text-center">3:00-3:30 Coffee Break</td>
   </tr>
   <tr>
-    <td>Session 3A: 4-5:30pm</td>
-    <td>Session 3B: 4-5:00pm</td>
+    <td>Session 3A: 3:30-5:00pm</td>
+    <td>Session 3B: 3:30-5:00pm</td>
   </tr>
   <tr>
     <td>
@@ -144,6 +141,11 @@ eleventyNavigation:
     </p>
     </td>
     <td>
+  <p>
+  When the Parametric Comparison meets the CP: a preliminary taxonomy of Italo-Romance varieties
+  <br />
+  <strong>Elena Isolani</strong>
+  </p>
       <p>
       Two types of non-structural case: Evidence from ATB movement in Modern Greek
       <br />
@@ -176,7 +178,7 @@ eleventyNavigation:
       <strong>Zhiyu Mia Gong, Eszter Ótott-Kovács</strong>
       </p>
       <p>
-      Diagnosing multidominance by focus association of ‘only’
+      Diagnosing multidominance by focus association of 'only'
       <br />
       <strong>Ka-Fai Yip, Squid Tamar-Mattis</strong>
       </p>
