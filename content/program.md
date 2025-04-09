@@ -201,11 +201,23 @@ eleventyNavigation:
 
 <table class="table mb-5">
   <tr>
-    <td colspan="2" class="text-center">8:30 am - 9 am Coffee and registration</td>
+    <td colspan="2" class="text-center">
+    8:30 am - 9 am Coffee and registration
+    <br />
+    <a href="https://uw.edu/maps/?mgh">MGH</a> Commons (135) 
+    </td>
   </tr>
   <tr>
-    <td>Session 4A: 9-10:30am</td>
-    <td>Session 4B: 9-10:30am</td>
+    <td>
+      Session 4A: 9-10:30am
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+    </td>
+    <td>
+      Session 4B: 9-10:30am
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+    </td>
   </tr>
   <tr>
     <td>
@@ -247,14 +259,26 @@ eleventyNavigation:
     <td colspan="2" class="text-center">10:30-11 Coffee Break</td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center">11-12:30 <a href="#list-of-posters">Poster session</a></td>
+    <td colspan="2" class="text-center">
+      11-12:30 <a href="#list-of-posters">Poster session</a>
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> Commons (135) 
+    </td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">12:30-2 pm Lunch Break (on own)</td>
   </tr>
   <tr>
-    <td>Session 5A: 2-3:30pm</td>
-    <td>Session 5B: 2-3:30pm</td>
+    <td>
+      Session 5A: 2-3:30pm
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+    </td>
+    <td>
+      Session 5B: 2-3:30pm
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+    </td>
   </tr>
   <tr>
     <td>
@@ -296,7 +320,12 @@ eleventyNavigation:
     <td colspan="2" class="text-center">3:30-4 pm Coffee Break</td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center"><strong>4 - 5 Keynote: Meghan Sumner</strong></td>
+    <td colspan="2" class="text-center">
+      <p>
+      <strong>4 - 5pm Keynote: Meghan Sumner</strong>
+      </p>
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 389
+    </td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">6:30 - 9:30pm Conference Dinner at the Burke Museum</td>
@@ -308,11 +337,23 @@ eleventyNavigation:
 
 <table class="table mb-5">
   <tr>
-    <td colspan="2" class="text-center">8:30 am - 9 am Coffee and registration</td>
+    <td colspan="2" class="text-center">
+      8:30 am - 9 am Coffee and registration
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> Commons (135) 
+    </td>
   </tr>
   <tr>
-    <td>Session 7A: 9 - 10:00am</td>
-    <td>Session 7B: 9 - 10:30am</td>
+    <td>
+      Session 7A: 9 - 10:00am
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+    </td>
+    <td>
+      Session 7B: 9 - 10:30am
+      <br />
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+    </td>
   </tr>
   <tr>
     <td>
@@ -350,9 +391,12 @@ eleventyNavigation:
   </tr>
   <tr>
     <td colspan="2" class="text-center">
+      <p>
       <strong>11- 12 pm Keynote: Henry Davis</strong>
       <br />
       Minimal Morphology: Evidence from Clitic Systems 
+      </p>
+      <a href="https://uw.edu/maps/?mgh">MGH</a> 389
     </td>
   </tr>
   <tr>
