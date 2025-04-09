@@ -10,14 +10,30 @@ eleventyNavigation:
 
 <table class="table mb-5">
   <tr>
-    <td colspan="2" class="text-center">8 am - 8:50 am Coffee and registration</td>
+    <td colspan="2" class="text-center">
+      8 am - 8:50 am Coffee and registration
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+    </td>
   </tr>
   <tr>
-    <td colspan="2" class="text-center">8:50-9:00 Opening Remarks</td>
+    <td colspan="2" class="text-center">
+      8:50-9:00 Opening Remarks
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+    </td>
   </tr>
   <tr>
-    <td>Session 1A: 9-10:30am</td>
-    <td>Session 1B: 9-10:30am</td>
+    <td>
+      Session 1A: 9-10:30am
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+    </td>
+    <td>
+      Session 1B: 9-10:30am
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 145
+    </td>
   </tr>
   <tr>
     <td>
@@ -60,17 +76,30 @@ eleventyNavigation:
   </tr>
   <tr>
     <td colspan="2" class="text-center">
+      <p>
       <strong>11-12 Keynote 1: Kathryn Davidson</strong>
       <br />
       Quantification and depicting predicates in ASL
+      </p>
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
     </td>
   </tr>
   <tr>
     <td colspan="2" class="text-center">12-1:30 pm Lunch Break (on own)</td>
   </tr>
   <tr>
-    <td>Session 2A: 1:30 - 3:00pm <br /> special session on sign language linguistics</td>
-    <td>Session 2B: 1:30 - 3:00pm</td>
+    <td>
+      Session 2A: 1:30 - 3:00pm
+      <br />
+      special session on sign language linguistics
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      </td>
+    <td>
+      Session 2B: 1:30 - 3:00pm
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 145
+    </td>
   </tr>
   <tr>
   <td>
@@ -119,8 +148,16 @@ eleventyNavigation:
     <td colspan="2" class="text-center">3:00-3:30 Coffee Break</td>
   </tr>
   <tr>
-    <td>Session 3A: 3:30-5:00pm</td>
-    <td>Session 3B: 3:30-5:00pm</td>
+    <td>
+      Session 3A: 3:30-5:00pm
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+    </td>
+    <td>
+      Session 3B: 3:30-5:00pm
+      <br />
+      <a href="https://uw.edu/maps/?hub">HUB</a> 145
+    </td>
   </tr>
   <tr>
     <td>
