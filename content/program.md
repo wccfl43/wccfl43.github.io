@@ -377,7 +377,7 @@ eleventyNavigation:
       <p>
       Feature interaction in the Tira agreement complex
       <br />
-      <strong>Peter Jenks</strong>
+      <strong>Himidan Hassen and Peter Jenks</strong>
       </p>
       <p>
       Parameterizing ergative and absolutive agreement: Microvariation in Kurdish
@@ -414,9 +414,6 @@ Possessor agreement: Exploring Cross-Linguistic Variation
 
 Nandao-Qs: When Suprise Sparks Inquiry  
 **Anshun Zheng** 
-
-Cyclic Prosodification in Japanese  
-**Yosho Miyata** 
 
 Differentiating between generic and actualized eventualities in Alashkert Armenian  
 **Mariam Asatryan** 
@@ -459,9 +456,6 @@ Transitive subject relativization restriction in Northern Tujia and beyond
 
 Chinese gèng, English implicit comparison, and vagueness sharpening  
 **Florence Y.K. Zhang, Linmin Zhang** 
-
-Superlatives without \-est: Japanese Ichiban as an Exclusive Adverbial  
-**Jun Tamura**
 
 Context update with Cantonese sentence-final particle me1 and the role of falling tone  
 **Yingyu Su**
