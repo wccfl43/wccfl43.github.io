@@ -6,6 +6,10 @@ eleventyNavigation:
 
 # Registration
 
+## Deadline
+
+Registration, including payment, must be completed by **April 17, 2025**.
+
 ## Fees
 
 * **Early registration** (available through **March 25**):   
@@ -16,6 +20,10 @@ eleventyNavigation:
   * (Under)graduate students: $120  
   * Postdocs & visiting faculty: $220  
   * Tenure-track faculty & permanently employed: $270
+* **One Day Registration** (does not include conference dinner):
+  * (Under)graduate students: $40
+  * Postdocs & visiting faculty: $70 
+  * Tenure-track faculty & permanently employed: $90
 
 ## Instructions
 
