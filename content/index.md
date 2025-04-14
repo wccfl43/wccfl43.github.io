@@ -1,8 +1,5 @@
 ---
 layout: layouts/base.njk
-eleventyNavigation:
-  key: Home
-  order: 0
 ---
 
 <div class="container-fluid bg-lavender">
