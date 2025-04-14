@@ -38,9 +38,9 @@ eleventyNavigation:
   <tr>
     <td>
     <p>
-    Same but Different: Balinese vs. Malagasy Pivots
+    Preposition Omission and Focus in German Fragments: A Case for a Q-Based Approach
     <br />
-    <strong>Yiannis Katochoritis, Magdalena Lohninger</strong>
+    <strong>Miriam L. Schiele</strong>
     </p>
     <p>
     Passivization, speech act participants, and third-person probes in Jarawara
@@ -65,9 +65,9 @@ eleventyNavigation:
     <strong>Woraprat Manowang</strong>
     </p>
     <p>
-    Preposition Omission and Focus in German Fragments: A Case for a Q-Based Approach
+    Same but Different: Balinese vs. Malagasy Pivots
     <br />
-    <strong>Miriam L. Schiele</strong>
+    <strong>Yiannis Katochoritis, Magdalena Lohninger</strong>
     </p>
     </td>
   </tr>
