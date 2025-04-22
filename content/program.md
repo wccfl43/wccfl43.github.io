@@ -422,7 +422,7 @@ Differentiating between generic and actualized eventualities in Alashkert Armeni
 **Chase Boles**
 
 Capturing Modal Base Polarity with Mandarin wh-indefinites  
-**Carlos Cisneros, Anqi Zhang** 
+**Angqi Zhang, Carlos Cisneros** 
 
 Do we need self-destructive feeding  
 **Yuxuan Melody Wang** 
