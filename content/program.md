@@ -6,6 +6,12 @@ eleventyNavigation:
 
 # Program
 
+Abstracts can be viewed here:
+
+- [talks](https://openreview.net/group?id=WCCFL/2025/Conference#tab-accept-talk)
+- [posters](https://openreview.net/group?id=WCCFL/2025/Conference#tab-accept-poster)
+
+
 ## Friday, April 25th, 2025
 
 <table class="table mb-5">
