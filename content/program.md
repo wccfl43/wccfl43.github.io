@@ -11,9 +11,11 @@ eleventyNavigation:
 <table class="table mb-5">
   <tr>
     <td colspan="2" class="text-center">
-      8 am - 8:50 am Coffee and registration
+      8 am - 8:50 am 
       <br />
-      <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      Registration: <a href="https://uw.edu/maps/?hub">HUB</a> 145
+      <br />
+      Coffee: <a href="https://uw.edu/maps/?hub">HUB</a> 332
     </td>
   </tr>
   <tr>
@@ -345,12 +347,12 @@ eleventyNavigation:
   </tr>
   <tr>
     <td>
-      Session 7A: 9 - 10:00am
+      Session 6A: 9 - 10:00am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 231
     </td>
     <td>
-      Session 7B: 9 - 10:30am
+      Session 6B: 9 - 10:30am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 241
     </td>
@@ -469,13 +471,13 @@ Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew
 When your associates tag along: Associative plurality in Rural Iberian Spanish names  
 **Elango Kumaran, Luis Miguel Toquero Pérez**
 
-Instrument as internal subject: evidence from the verbs baad ‘cut’, maj ‘burn’, and pan ‘tie’ in Thai  
+Instrument as internal subject: evidence from the verbs baad 'cut', maj 'burn', and pan 'tie' in Thai  
 **Danutham Worapipat** 
 
 Encoding Domain Restrictions via an Overt Situation Pronoun  
 **Yaqing Hu**
 
-‘Irrealis’ particle ji in Gitksan  
+'Irrealis' particle ji in Gitksan  
 **Yurika Aonuki** 
 
 The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach  
@@ -501,63 +503,3 @@ Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation
 
 An argument for Syntactic Reconstruction: Distributivity as Variable Binding  
 **Yiannis Katochoritis**
-
- 
-
-<!--
-
-| 8 am \- 8;50 am Coffee and registration |  |
-| ----- | :---: |
-| 8:50-9:00 Opening Remarks |  |
-| Session 1A: | Session 1B: |
-| 9-10:30 am Same but Different: Balinese vs. Malagasy Pivots **Yiannis Katochoritis, Magdalena Lohninger**  Passivization, speech act participants, and third-person probes in Jarawara **Yiannis Katochoritis, Magdalena Lohninger**  Non-active syntax and argumental for-phrases in Italian tough-constructions **Leonardo Russo Cardona**  | 9-10:30 am A new shared antecedent approach to parasitic gaps: Explaining connectivity and the A-/Ā-distinction **Matthew Hewett**  Contrastive fragments in Thai: against the in-situ approach **Woraprat Manowang**  Preposition Omission and Focus in German Fragments: A Case for a Q-Based Approach **Miriam L. Schiele** |
-|  |  |
-|  |  |
-| 10:30 \- 11 Coffee Break  |  |
-| **11-12 Keynote 1: Kathryn Davidson** |  |
-| 12-1:30 pm Lunch Break (on own) |  |
-| Session 2A: special session on sign language linguistics | Session 2B: |
-| 1:30-3:30 pm Optimality Theory for Hong Kong Sign Language loan words **Emily Koenders**  Negation in Sadat Tawaher Sign Language: A Formal Approach **Seyyed Hatam Tamimi Sad, Ronnie Wilbur, Roland Pfau**  Correlation between focus and the clause-final position in Hong Kong Sign Language **Linghui Eva Gan**  Definiteness in Korean Sign Language: The Role of IX and NP-IX **Arum Kang, Youngju Choi**  | 1:30-3 pm PP-splits in Greek: Against scattered deletion **Nikos Angelopoulos**  Chameleon affixes in Sekani produce strictly layered stratal domains **Katie McCann**  When the Parametric Comparison meets the CP:  a preliminary taxonomy of Italo-Romance varieties **Elena Isolani**  |
-|  |  |
-|  |  |
-| 3:30-4:00 Coffee Break  |  |
-| Session 3A: | Session 3B: |
-| 4:00-5:30 pm Quirks of progressive clauses in Kasem **Daniel Aremu**  On the (in)definiteness of bare nouns in Dholuo **Joshua Dees**  Agree to disagree: on refutational and confirmatory *too* **Maria Esipova**  | Examining Island Effects with NP-Scrambling out of Four Types of Adjunct Clauses in Japanese **Shin Fukuda, Hajime Ono**  A′-movement restrictions in Igbo reanalyzed **Jasper Jian, Martina Martinovic**  "Non-local A-movement" is predicted to exist, and it does **Giovanni Roversi** |
-|  |  |
-|  |  |
-
-
-| 8:30 am \- 9 am Coffee and registration |  |
-| :---: | ----- |
-| Session 4A: | Session 4B: |
-| 9-10:30 am Specification of D Derives Variation in Relative Clauses **Zhiyu Mia Gong, Eszter Ótott-Kovács**  Diagnosing multidominance by focus association of ‘only’ **Ka-Fai Yip, Squid Tamar-Mattis**  The unaccusative-unergative distinction in Mandarin resultative constructions **Fulang Chen**  | 9-10:30 am Verb stem alternation and successive cyclic movement in Falam Chin **Emily Hanink**  Principled probability in syntax: A Minimalist approach to variability and cumulativity in phrasal movement **Brian Hsu**  Two types of non-structural case: Evidence from ATB movement in Modern Greek **Doreen Georgi, Lefteris Paparounas, Martin Salzmann** |
-|  |  |
-|  |  |
-| 10:30-11 Coffee Break  |  |
-| 11-12:30 Poster session  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-| 12:30-2 pm Lunch Break (on own) |  |
-| Session 5A: | Session 5B: |
-| 2-3:30 pm Perceptual Adaptation in Spanish: Implications for Vowel-specific Factors in the Learning of Novel Accents **Nikolai Andrés Schwarz-Acosta**  Seenku tone sandhi is compatible with traditional cyclicity **Daniel Gleim, Armel Jolin**  Iconic Vowel Alternations in Korean Ideophones: A Formal Analysis **Natalie Paige Côté**  | 2-3:30 pm Two ways to be non-inertial: frustrativity and event maximality in O’dam **Prerna Nadathur, Michael Everdell**  Structure matters: missing implicatures and their consequence for the theory of alternatives **Zachary Feldcamp, Ido Benbaji-Elhadad**  Korean honorification as a window to understanding animacy **Aidan Katson**  |
-|  |  |
-|  |  |
-| 3:30-4 pm Coffee Break |  |
-| **4 \- 5 Keynote: Meghan Sumner** |  |
-| Conference Dinner 6:30-9:30 |  |
-
-# **Sunday, April 27th, 2025**
-
-| 8:30 am \- 9 am Coffee and registration |  |
-| :---: | :---: |
-| Session 7A: BAG 260 | Session 7B: BAG 261  |
-| 9 \- 10:30 am Against Number Harmony for Non-Paradigmatic SE **Angel Gallego**  The bilingual lexicon under Distributed Morphology: An investigation of gender agreement in code-switching **Mandy Cartner, Aya Meltzer-Asscher, Julia Horvath**  | 9 \- 10:30 am Adjunct control in Ch'ol comitatives **Carol Rose Little**  Feature interaction in the Tira agreement complex **Peter Jenks**  Parameterizing ergative and absolutive agreement: Microvariation in Kurdish **Sahar Taghipour**    |
-|  |  |
-|  |  |
-| 10:30 \- 11 am Coffee Break  |  |
-| **11- 12 pm Keynote: Henry Davis** |  |
-|  12 \- 1 Closing and Business Meeting |  |
-
--->
