@@ -414,98 +414,102 @@ Abstracts can be viewed here:
 
 ## List of Posters
 
-Re: configurational verbs  
-**Ryan Walter Smith**
-
-Possessor agreement: Exploring Cross-Linguistic Variation  
-**Dimitris Michelioudakis, Nikos Angelopoulos, Elena Anagnostopoulou** 
-
-Nandao-Qs: When Suprise Sparks Inquiry  
-**Anshun Zheng** 
-
-Differentiating between generic and actualized eventualities in Alashkert Armenian  
-**Mariam Asatryan** 
-
-"Bleeding" Condition C in Kanien'kéha  
-**Chase Boles**
-
-Capturing Modal Base Polarity with Mandarin wh-indefinites  
-**Angqi Zhang, Carlos Cisneros** 
-
-Do we need self-destructive feeding  
-**Yuxuan Melody Wang** 
-
-Scrambling through the Looking Glass: Two Types of Movement across Weak Islands  
-**Zhiyu Mia Gong** 
-
-Deriving (non)agreement in Welsh  
-**Calvin Quick** 
-
-An argument against non-constituent ellipsis  
-**Dongwoo Park** 
-
-The morphotactics of the Limbu verb: A postsyntactic analysis of the suffix domain  
-**Doreen Georgi, Andrew Murphy** 
-
-Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)  
-**Daniar Kasenov, Ivan Kalyakin** 
-
-Recursion in NP: pseudopartitive measures require complementation, not specification  
-**Malhaar Shah** 
-
-Ordering postsyntactic operations within domains  
-**Zhouyi Sun, Peter Grishin** 
-
-Allocutive agreement and indexicals Shift Together, but not always  
-**Thomas McFadden, Sandhya Sundaresan**
-
-Transitive subject relativization restriction in Northern Tujia and beyond  
-**Kang Franco Liu**
-
-Chinese gèng, English implicit comparison, and vagueness sharpening  
-**Florence Y.K. Zhang, Linmin Zhang** 
-
-Context update with Cantonese sentence-final particle me1 and the role of falling tone  
-**Yingyu Su**
-
-Diagnosing modal clause structure with focus-sensitive operators in Mandarin Chinese  
-**Haoming Li**
-
-Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew  
-**Zhuosi Luo, Alison Biggs** 
-
-When your associates tag along: Associative plurality in Rural Iberian Spanish names  
-**Elango Kumaran, Luis Miguel Toquero Pérez**
-
-Instrument as internal subject: evidence from the verbs baad 'cut', maj 'burn', and pan 'tie' in Thai  
-**Danutham Worapipat** 
-
-Encoding Domain Restrictions via an Overt Situation Pronoun  
-**Yaqing Hu**
-
-'Irrealis' particle ji in Gitksan  
+1. 'Irrealis' particle ji in Gitksan  
 **Yurika Aonuki** 
 
-The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach  
-**Fedor Golosov** 
+2. Differentiating between generic and actualized eventualities in Alashkert Armenian  
+**Mariam Asatryan** 
 
-Perspective sensitive items (PSIs) affected by Indexical Shift: Indexical PSIs in Turkish  
-**Metehan Oğuz**
+3. "Bleeding" Condition C in Kanien'kéha  
+**Chase Boles**
 
-Indeterminate determiners: a case study of Singlish prenominal relative clauses  
-**Si Kai Lee**
+4. Transitive subject relativization restriction in Northern Tujia and beyond  
+**Kang Franco Liu**
 
-The syntactic and semantic introduction of internal arguments  
-**Nikolas Webster**
-
-A parametric view on exclusive focus particles  
-**Ka-Fai Yip**
-
-Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation  
+5. Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation  
 **Yoshiki Fujiwara**
 
-(Un)conditionals in Japanese: A Question-based Approach  
+6. The morphotactics of the Limbu verb: A postsyntactic analysis of the suffix domain  
+**Doreen Georgi, Andrew Murphy** 
+
+7. The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach  
+**Fedor Golosov** 
+
+8. An argument for Syntactic Reconstruction: Distributivity as Variable Binding  
+**Yiannis Katochoritis**
+
+9. Encoding Domain Restrictions via an Overt Situation Pronoun  
+**Yaqing Hu**
+
+10. Indeterminate determiners: a case study of Singlish prenominal relative clauses  
+**Si Kai Lee**
+
+11. Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)  
+**Daniar Kasenov, Ivan Kalyakin** 
+
+12. When your associates tag along: Associative plurality in Rural Iberian Spanish names  
+**Elango Kumaran, Luis Miguel Toquero Pérez**
+
+13. Diagnosing modal clause structure with focus-sensitive operators in Mandarin Chinese  
+**Haoming Li**
+
+14. Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew  
+**Zhuosi Luo, Alison Biggs** 
+
+15. Allocutive agreement and indexicals Shift Together, but not always  
+**Thomas McFadden, Sandhya Sundaresan**
+
+16. Do we need self-destructive feeding  
+**Yuxuan Melody Wang** 
+
+17. Scrambling through the Looking Glass: Two Types of Movement across Weak Islands  
+**Zhiyu Mia Gong** 
+
+18. Possessor agreement: Exploring Cross-Linguistic Variation  
+**Dimitris Michelioudakis, Nikos Angelopoulos, Elena Anagnostopoulou** 
+
+19. (Un)conditionals in Japanese: A Question-based Approach  
 **Kimiko Nakanishi**
 
-An argument for Syntactic Reconstruction: Distributivity as Variable Binding  
-**Yiannis Katochoritis**
+20. Perspective sensitive items (PSIs) affected by Indexical Shift: Indexical PSIs in Turkish  
+**Metehan Oğuz**
+
+21. An argument against non-constituent ellipsis  
+**Dongwoo Park** 
+
+22. Deriving (non)agreement in Welsh  
+**Calvin Quick** 
+
+23. Recursion in NP: pseudopartitive measures require complementation, not specification  
+**Malhaar Shah** 
+
+24. Context update with Cantonese sentence-final particle me1 and the role of falling tone  
+**Yingyu Su**
+
+25. Ordering postsyntactic operations within domains  
+**Zhouyi Sun, Peter Grishin** 
+
+26. Re: configurational verbs  
+**Ryan Walter Smith**
+
+27. The syntactic and semantic introduction of internal arguments  
+**Nikolas Webster**
+
+28. Instrument as internal subject: evidence from the verbs baad 'cut', maj 'burn', and pan 'tie' in Thai  
+**Danutham Worapipat** 
+
+29. A parametric view on exclusive focus particles  
+**Ka-Fai Yip**
+
+30. Capturing Modal Base Polarity with Mandarin wh-indefinites  
+**Angqi Zhang, Carlos Cisneros** 
+
+31. Chinese gèng, English implicit comparison, and vagueness sharpening  
+**Florence Y.K. Zhang, Linmin Zhang** 
+
+32. Nandao-Qs: When Suprise Sparks Inquiry  
+**Anshun Zheng** 
+
+
+
+
