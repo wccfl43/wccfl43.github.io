@@ -325,6 +325,8 @@ eleventyNavigation:
     <td colspan="2" class="text-center">
       <p>
       <strong>4 - 5pm Keynote: Meghan Sumner</strong>
+      <br />
+      Fortunately, phonetic variation
       </p>
       <a href="https://uw.edu/maps/?mgh">MGH</a> 389
     </td>
