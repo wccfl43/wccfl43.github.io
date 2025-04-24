@@ -468,6 +468,10 @@ Abstracts can be viewed here:
 18. Possessor agreement: Exploring Cross-Linguistic Variation  
 **Dimitris Michelioudakis, Nikos Angelopoulos, Elena Anagnostopoulou** 
 
+19. Cyclic Prosodification in Japanese  
+**Yosho Miyata**
+
+
 19. (Un)conditionals in Japanese: A Question-based Approach  
 **Kimiko Nakanishi**
 
