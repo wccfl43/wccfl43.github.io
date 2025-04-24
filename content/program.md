@@ -414,104 +414,104 @@ Abstracts can be viewed here:
 
 ## List of Posters
 
-1. 'Irrealis' particle ji in Gitksan  
+1. ['Irrealis' particle ji in Gitksan](https://openreview.net/forum?id=gvNdTOcLeE)  
 **Yurika Aonuki** 
 
-2. Differentiating between generic and actualized eventualities in Alashkert Armenian  
+2. [Differentiating between generic and actualized eventualities in Alashkert Armenian](https://openreview.net/forum?id=n42tMCqL68)  
 **Mariam Asatryan** 
 
-3. "Bleeding" Condition C in Kanien'kéha  
+3. ["Bleeding" Condition C in Kanien'kéha](https://openreview.net/forum?id=GHGBwczqmN)  
 **Chase Boles**
 
-4. Transitive subject relativization restriction in Northern Tujia and beyond  
+4. [Transitive subject relativization restriction in Northern Tujia and beyond](https://openreview.net/forum?id=h59NHuP1sl)   
 **Kang Franco Liu**
 
-5. Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation  
+5. [Can Adjuncts Be Elided? A Bimodal Approach to Adjunct-Inclusive Interpretation](https://openreview.net/forum?id=fCSn4c81e7)  
 **Yoshiki Fujiwara**
 
-6. The morphotactics of the Limbu verb: A postsyntactic analysis of the suffix domain  
+6. [The morphotactics of the Limbu verb: A postsyntactic analysis of the suffix domain](https://openreview.net/forum?id=G0yfOMZeNm)  
 **Doreen Georgi, Andrew Murphy** 
 
-7. The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach  
+7. [The distribution of wide scope indefinite bare duals in Kazym Khanty: a QUD-based approach](https://openreview.net/forum?id=YINe5oO0B1)  
 **Fedor Golosov** 
 
-8. An argument for Syntactic Reconstruction: Distributivity as Variable Binding  
+8. [An argument for Syntactic Reconstruction: Distributivity as Variable Binding](https://openreview.net/forum?id=Ah1gxwmqfe)  
 **Yiannis Katochoritis**
 
-9. Encoding Domain Restrictions via an Overt Situation Pronoun  
+9. [Encoding Domain Restrictions via an Overt Situation Pronoun](https://openreview.net/forum?id=5hgztKWRai)  
 **Yaqing Hu**
 
-10. Indeterminate determiners: a case study of Singlish prenominal relative clauses  
+10. [Indeterminate determiners: a case study of Singlish prenominal relative clauses](https://openreview.net/forum?id=vDuGXPvyRn)  
 **Si Kai Lee**
 
-11. Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)  
+11. [Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)](https://openreview.net/forum?id=mNfpoN2A4t)  
 **Daniar Kasenov, Ivan Kalyakin** 
 
-12. When your associates tag along: Associative plurality in Rural Iberian Spanish names  
+12. [When your associates tag along: Associative plurality in Rural Iberian Spanish names](https://openreview.net/forum?id=2ogDNWRH23)  
 **Elango Kumaran, Luis Miguel Toquero Pérez**
 
-13. Diagnosing modal clause structure with focus-sensitive operators in Mandarin Chinese  
+13. [Diagnosing modal clause structure with focus-sensitive operators in Mandarin Chinese](https://openreview.net/forum?id=oKEJLlLlHX)  
 **Haoming Li**
 
-14. Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew  
+14. [Big and small as dimension-less degree modifiers: Evidence from Shantou Teochew](https://openreview.net/forum?id=Lsa0klajk1)  
 **Zhuosi Luo, Alison Biggs** 
 
-15. Allocutive agreement and indexicals Shift Together, but not always  
+15. [Allocutive agreement and indexicals Shift Together, but not always](https://openreview.net/forum?id=C6fSuyCQsi)  
 **Thomas McFadden, Sandhya Sundaresan**
 
-16. Do we need self-destructive feeding  
+16. [Do we need self-destructive feeding?](https://openreview.net/forum?id=nc5GYt0mOh)  
 **Yuxuan Melody Wang** 
 
-17. Scrambling through the Looking Glass: Two Types of Movement across Weak Islands  
+17. [Scrambling through the Looking Glass: Two Types of Movement across Weak Islands](https://openreview.net/forum?id=RbVj16n5Pa)  
 **Zhiyu Mia Gong** 
 
-18. Possessor agreement: Exploring Cross-Linguistic Variation  
+18. [Possessor agreement: Exploring Cross-Linguistic Variation](https://openreview.net/forum?id=gESkEw0dyM)  
 **Dimitris Michelioudakis, Nikos Angelopoulos, Elena Anagnostopoulou** 
 
-19. Cyclic Prosodification in Japanese  
+19. [Cyclic Prosodification in Japanese](https://openreview.net/forum?id=2JzOtM7rnC)  
 **Yosho Miyata**
 
 
-19. (Un)conditionals in Japanese: A Question-based Approach  
+19. [(Un)conditionals in Japanese: A Question-based Approach](https://openreview.net/forum?id=S3FGmUceUO)  
 **Kimiko Nakanishi**
 
-20. Perspective sensitive items (PSIs) affected by Indexical Shift: Indexical PSIs in Turkish  
+20. [Perspective sensitive items (PSIs) affected by Indexical Shift: Indexical PSIs in Turkish](https://openreview.net/forum?id=o4Z6F9IpTM)  
 **Metehan Oğuz**
 
-21. An argument against non-constituent ellipsis  
+21. [An argument against non-constituent ellipsis](https://openreview.net/forum?id=G8dWGMvGS3)  
 **Dongwoo Park** 
 
-22. Deriving (non)agreement in Welsh  
+22. [Deriving (non)agreement in Welsh](https://openreview.net/forum?id=7PGqwFbJ06)  
 **Calvin Quick** 
 
-23. Recursion in NP: pseudopartitive measures require complementation, not specification  
+23. [Recursion in NP: pseudopartitive measures require complementation, not specification](https://openreview.net/forum?id=7Inm5ehScG)  
 **Malhaar Shah** 
 
-24. Context update with Cantonese sentence-final particle me1 and the role of falling tone  
+24. [Context update with Cantonese sentence-final particle me1 and the role of falling tone](https://openreview.net/forum?id=jLYAorA7ld)  
 **Yingyu Su**
 
-25. Ordering postsyntactic operations within domains  
+25. [Ordering postsyntactic operations within domains](https://openreview.net/forum?id=viu7JOdJOr)  
 **Zhouyi Sun, Peter Grishin** 
 
-26. Re: configurational verbs  
+26. [Re: configurational verbs](https://openreview.net/forum?id=CQJu5HDZvG)  
 **Ryan Walter Smith**
 
-27. The syntactic and semantic introduction of internal arguments  
+27. [The syntactic and semantic introduction of internal arguments](https://openreview.net/forum?id=lTN26V0pzs)  
 **Nikolas Webster**
 
-28. Instrument as internal subject: evidence from the verbs baad 'cut', maj 'burn', and pan 'tie' in Thai  
+28. [Instrument as internal subject: evidence from the verbs baad 'cut', maj 'burn', and pan 'tie' in Thai](https://openreview.net/forum?id=mRsZYttOZ9)  
 **Danutham Worapipat** 
 
-29. A parametric view on exclusive focus particles  
+29. [A parametric view on exclusive focus particles](https://openreview.net/forum?id=GcML2ou2G1)  
 **Ka-Fai Yip**
 
-30. Capturing Modal Base Polarity with Mandarin wh-indefinites  
+30. [Capturing Modal Base Polarity with Mandarin wh-indefinites](https://openreview.net/forum?id=Q3v69Gn5L5)  
 **Angqi Zhang, Carlos Cisneros** 
 
-31. Chinese gèng, English implicit comparison, and vagueness sharpening  
+31. [Chinese gèng, English implicit comparison, and vagueness sharpening](https://openreview.net/forum?id=liHgXaNddN)  
 **Florence Y.K. Zhang, Linmin Zhang** 
 
-32. Nandao-Qs: When Suprise Sparks Inquiry  
+32. [Nandao-Qs: When Suprise Sparks Inquiry](https://openreview.net/forum?id=fEejdSkee4)  
 **Anshun Zheng** 
 
 
