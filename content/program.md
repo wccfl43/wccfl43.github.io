@@ -6,12 +6,6 @@ eleventyNavigation:
 
 # Program
 
-Abstracts can be viewed here:
-
-- [talks](https://openreview.net/group?id=WCCFL/2025/Conference#tab-accept-talk)
-- [posters](https://openreview.net/group?id=WCCFL/2025/Conference#tab-accept-poster)
-
-
 ## Friday, April 25th, 2025
 
 <table class="table mb-5">
@@ -46,34 +40,34 @@ Abstracts can be viewed here:
   <tr>
     <td>
     <p>
-    Preposition Omission and Focus in German Fragments: A Case for a Q-Based Approach
+    <a href="https://openreview.net/forum?id=ixQ8OMbQWw">Preposition Omission and Focus in German Fragments: A Case for a Q-Based Approach</a>
     <br />
     <strong>Miriam L. Schiele</strong>
     </p>
     <p>
-    Passivization, speech act participants, and third-person probes in Jarawara
+    <a href="https://openreview.net/forum?id=swHuryk7z3">Passivization, speech act participants, and third-person probes in Jarawara</a>
     <br />
     <strong>Luke James Adamson, Ruth Kramer</strong>
     </p>
     <p>
-    Non-active syntax and argumental for-phrases in Italian tough-constructions
+    <a href="https://openreview.net/forum?id=LOs21qsHUo">Non-active syntax and argumental for-phrases in Italian tough-constructions</a>
     <br />
     <strong>Leonardo Russo Cardona</strong>
     </p>
     </td>
     <td>
     <p>
-    A new shared antecedent approach to parasitic gaps: Explaining connectivity and the A-/Ā-distinction
+    <a href="https://openreview.net/forum?id=orNyWGWx7D">A new shared antecedent approach to parasitic gaps: Explaining connectivity and the A-/Ā-distinction</a>
     <br />
     <strong>Matthew Hewett</strong>
     </p>
     <p>
-    Contrastive fragments in Thai: against the in-situ approach
+    <a href="https://openreview.net/forum?id=q1oQqtiyr5">Contrastive fragments in Thai: against the in-situ approach</a>
     <br />
     <strong>Woraprat Manowang</strong>
     </p>
     <p>
-    Same but Different: Balinese vs. Malagasy Pivots
+    <a href="https://openreview.net/forum?id=DuiXNX7aPJ">Same but Different: Balinese vs. Malagasy Pivots</a>
     <br />
     <strong>Yiannis Katochoritis, Magdalena Lohninger</strong>
     </p>
@@ -119,34 +113,34 @@ Abstracts can be viewed here:
   </p>
   -->
   <p>
-  Negation in Sadat Tawaher Sign Language: A Formal Approach
+  <a href="https://openreview.net/forum?id=4TWFRZ7HHZ">Negation in Sadat Tawaher Sign Language: A Formal Approach</a>
   <br />
   <strong>Seyyed Hatam Tamimi Sad, Ronnie Wilbur, Roland Pfau</strong>
   </p>
   <p>
-  Correlation between focus and the clause-final position in Hong Kong Sign Language
+  <a href="https://openreview.net/forum?id=YGXPrZR80R">Correlation between focus and the clause-final position in Hong Kong Sign Language</a>
   <br />
   <strong>Linghui Eva Gan</strong>
   </p>
   <p>
-  Definiteness in Korean Sign Language: The Role of IX and NP-IX
+  <a href="https://openreview.net/forum?id=4R3heOYQje">Definiteness in Korean Sign Language: The Role of IX and NP-IX</a>
   <br />
   <strong>Arum Kang, Youngju Choi</strong>
   </p>
   </td>
   <td>
   <p>
-  PP-splits in Greek: Against scattered deletion
+  <a href="https://openreview.net/forum?id=JbR5NjoCyj">PP-splits in Greek: Against scattered deletion</a>
   <br />
   <strong>Nikos Angelopoulos</strong>
   </p>
   <p>
-  Chameleon affixes in Sekani produce strictly layered stratal domains
+  <a href="https://openreview.net/forum?id=tiEjtxDf1a">Chameleon affixes in Sekani produce strictly layered stratal domains</a>
   <br />
   <strong>Katie McCann</strong>
   </p>
     <p>
-    "Non-local A-movement" is predicted to exist, and it does
+    <a href="https://openreview.net/forum?id=AHRcPs913d">"Non-local A-movement" is predicted to exist, and it does</a>
     <br />
     <strong>Giovanni Roversi</strong>
     </p>
@@ -170,34 +164,34 @@ Abstracts can be viewed here:
   <tr>
     <td>
     <p>
-    Quirks of progressive clauses in Kasem
+    <a href="https://openreview.net/forum?id=3Fi7xANsf8">Quirks of progressive clauses in Kasem</a>
     <br />
     <strong>Daniel Aremu</strong>
     </p>
     <p>
-    On the (in)definiteness of bare nouns in Dholuo
+    <a href="https://openreview.net/forum?id=mbE8qwRPkC">On the (in)definiteness of bare nouns in Dholuo</a>
     <br />
     <strong>Joshua Dees</strong>
     </p>
     <p>
-    Agree to disagree: on refutational and confirmatory *too*
+    <a href="https://openreview.net/forum?id=lZ7yoROx9G">Agree to disagree: on refutational and confirmatory *too*</a>
     <br />
     <strong>Maria Esipova</strong>
     </p>
     </td>
     <td>
   <p>
-  When the Parametric Comparison meets the CP: a preliminary taxonomy of Italo-Romance varieties
+  <a href="https://openreview.net/forum?id=iJQNt0wMPQ">When the Parametric Comparison meets the CP: a preliminary taxonomy of Italo-Romance varieties</a>
   <br />
   <strong>Elena Isolani</strong>
   </p>
       <p>
-      Two types of non-structural case: Evidence from ATB movement in Modern Greek
+      <a href="https://openreview.net/forum?id=kf98Z7bMyQ">Two types of non-structural case: Evidence from ATB movement in Modern Greek</a>
       <br />
       <strong>Doreen Georgi, Lefteris Paparounas, Martin Salzmann</strong>
       </p>
     <p>
-    A'-movement restrictions in Igbo reanalyzed
+    <a href="https://openreview.net/forum?id=caCZklutx8">A'-movement restrictions in Igbo reanalyzed</a>
     <br />
     <strong>Jasper Jian, Martina Martinovic</strong>
     </p>
@@ -230,34 +224,34 @@ Abstracts can be viewed here:
   <tr>
     <td>
       <p>
-      Specification of D Derives Variation in Relative Clauses
+      <a href="https://openreview.net/forum?id=5PCj66KPeD">Specification of D Derives Variation in Relative Clauses</a>
       <br />
       <strong>Zhiyu Mia Gong, Eszter Ótott-Kovács</strong>
       </p>
       <p>
-      Diagnosing multidominance by focus association of 'only'
+      <a href="https://openreview.net/forum?id=iTuGcPdE6j">Diagnosing multidominance by focus association of 'only'</a>
       <br />
       <strong>Ka-Fai Yip, Squid Tamar-Mattis</strong>
       </p>
       <p>
-      The unaccusative-unergative distinction in Mandarin resultative constructions
+      <a href="https://openreview.net/forum?id=LDU9P3Uk8a">The unaccusative-unergative distinction in Mandarin resultative constructions</a>
       <br />
       <strong>Fulang Chen</strong>
       </p>
     </td>
     <td>
       <p>
-      Verb stem alternation and successive cyclic movement in Falam Chin
+      <a href="https://openreview.net/forum?id=T91AA82y0H">Verb stem alternation and successive cyclic movement in Falam Chin</a>
       <br />
       <strong>Emily Hanink</strong>
       </p>
       <p>
-      Principled probability in syntax: A Minimalist approach to variability and cumulativity in phrasal movement
+      <a href="https://openreview.net/forum?id=W7Uf5YaR7y">Principled probability in syntax: A Minimalist approach to variability and cumulativity in phrasal movement</a>
       <br />
       <strong>Brian Hsu</strong>
       </p>
     <p>
-    Examining Island Effects with NP-Scrambling out of Four Types of Adjunct Clauses in Japanese
+    <a href="https://openreview.net/forum?id=AbVzMi46zz">Examining Island Effects with NP-Scrambling out of Four Types of Adjunct Clauses in Japanese</a>
     <br />
     <strong>Shin Fukuda, Hajime Ono</strong>
     </p>
@@ -291,34 +285,34 @@ Abstracts can be viewed here:
   <tr>
     <td>
       <p>
-      Perceptual Adaptation in Spanish: Implications for Vowel-specific Factors in the Learning of Novel Accents
+      <a href="https://openreview.net/forum?id=9ajsifbTpL">Perceptual Adaptation in Spanish: Implications for Vowel-specific Factors in the Learning of Novel Accents</a>
       <br />
       <strong>Nikolai Andrés Schwarz-Acosta</strong>
       </p>
       <p>
-      Seenku tone sandhi is compatible with traditional cyclicity
+      <a href="https://openreview.net/forum?id=u75m9dzqbU">Seenku tone sandhi is compatible with traditional cyclicity</a>
       <br />
       <strong>Daniel Gleim, Armel Jolin</strong>
       </p>
       <p>
-      Iconic Vowel Alternations in Korean Ideophones: A Formal Analysis
+      <a href="https://openreview.net/forum?id=3b2ijdWuDK">Iconic Vowel Alternations in Korean Ideophones: A Formal Analysis</a>
       <br />
       <strong>Natalie Paige Côté</strong>
       </p>
     </td>
     <td>
       <p>
-      Two ways to be non-inertial: frustrativity and event maximality in O’dam
+      <a href="https://openreview.net/forum?id=8G2DDDJE62">Two ways to be non-inertial: frustrativity and event maximality in O’dam</a>
       <br />
       <strong>Prerna Nadathur, Michael Everdell</strong>
       </p>
       <p>
-      Structure matters: missing implicatures and their consequence for the theory of alternatives
+      <a href="https://openreview.net/forum?id=4odc31nBwC">Structure matters: missing implicatures and their consequence for the theory of alternatives</a>
       <br />
       <strong>Zachary Feldcamp, Ido Benbaji-Elhadad</strong>
       </p>
       <p>
-      Korean honorification as a window to understanding animacy
+      <a href="https://openreview.net/forum?id=o5Ajk6rMoC">Korean honorification as a window to understanding animacy</a>
       <br />
       <strong>Aidan Katson</strong>
       </p>
@@ -366,29 +360,29 @@ Abstracts can be viewed here:
   <tr>
     <td>
       <p>
-      Against Number Harmony for Non-Paradigmatic SE
+      <a href="https://openreview.net/forum?id=spFW6c86Vi">Against Number Harmony for Non-Paradigmatic SE</a>
       <br />
       <strong>Angel Gallego</strong>
       </p>
       <p>
-      The bilingual lexicon under Distributed Morphology: An investigation of gender agreement in code-switching
+      <a href="https://openreview.net/forum?id=MgEYAncaSc">The bilingual lexicon under Distributed Morphology: An investigation of gender agreement in code-switching</a>
       <br />
       <strong>Mandy Cartner, Aya Meltzer-Asscher, Julia Horvath</strong>
       </p>
     </td>
     <td>
       <p>
-      Adjunct control in Ch'ol comitatives
+      <a href="https://openreview.net/forum?id=jX0mW6dhpL">Adjunct control in Ch'ol comitatives</a>
       <br />
       <strong>Carol Rose Little</strong>
       </p>
       <p>
-      Feature interaction in the Tira agreement complex
+      <a href="https://openreview.net/forum?id=scM80e4JzI">Feature interaction in the Tira agreement complex</a>
       <br />
       <strong>Himidan Hassen and Peter Jenks</strong>
       </p>
       <p>
-      Parameterizing ergative and absolutive agreement: Microvariation in Kurdish
+      <a href="https://openreview.net/forum?id=Wy91xma0Wi">Parameterizing ergative and absolutive agreement: Microvariation in Kurdish</a>
       <br />
       <strong>Sahar Taghipour</strong>
       </p>
