@@ -30,11 +30,15 @@ eleventyNavigation:
       Session 1A: 9-10:30am
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      <br />
+      <small>Chair: Sandhya Sundaresan</small>
     </td>
     <td>
       Session 1B: 9-10:30am
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 145
+      <br />
+      <small>Chair: Andrew Hedding</small>
     </td>
   </tr>
   <tr>
@@ -84,6 +88,8 @@ eleventyNavigation:
       Quantification and depicting predicates in ASL
       </p>
       <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      <br />
+      <small>Chair: Shane Steinert-Threlkeld</small>
     </td>
   </tr>
   <tr>
@@ -96,11 +102,15 @@ eleventyNavigation:
       special session on sign language linguistics
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      <br />
+      <small>Chair: Qi Cheng</small>
       </td>
     <td>
       Session 2B: 1:30 - 3:00pm
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 145
+      <br />
+      <small>Chair: Maziar Toosarvandani</small>
     </td>
   </tr>
   <tr>
@@ -154,11 +164,15 @@ eleventyNavigation:
       Session 3A: 3:30-5:00pm
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 332
+      <br />
+      <small>Chair: Carol Rose Little</small>
     </td>
     <td>
       Session 3B: 3:30-5:00pm
       <br />
       <a href="https://uw.edu/maps/?hub">HUB</a> 145
+      <br />
+      <small>Chair: Toshiyuki Ogihara</small>
     </td>
   </tr>
   <tr>
@@ -219,6 +233,8 @@ eleventyNavigation:
       Session 4B: 9-10:30am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+      <br />
+      <small>Chair: Andrew Murphy</small>
     </td>
   </tr>
   <tr>
@@ -275,11 +291,15 @@ eleventyNavigation:
       Session 5A: 2-3:30pm
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+      <br />
+      <small>Chair: Sharon Hargus</small>
     </td>
     <td>
       Session 5B: 2-3:30pm
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+      <br />
+      <small>Chair: Shane Steinert-Threlkeld</small>
     </td>
   </tr>
   <tr>
@@ -329,6 +349,8 @@ eleventyNavigation:
       Fortunately, phonetic variation
       </p>
       <a href="https://uw.edu/maps/?mgh">MGH</a> 389
+      <br />
+      <small>Chair: Richard Wright</small>
     </td>
   </tr>
   <tr>
@@ -357,6 +379,8 @@ eleventyNavigation:
       Session 6B: 9 - 10:30am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 241
+      <br />
+      <small>Chair: Barbara Citko</small>
     </td>
   </tr>
   <tr>
@@ -401,6 +425,8 @@ eleventyNavigation:
       Minimal Morphology: Evidence from Clitic Systems 
       </p>
       <a href="https://uw.edu/maps/?mgh">MGH</a> 389
+      <br />
+      <small>Chair: Andrew Hedding</small>
     </td>
   </tr>
   <tr>
