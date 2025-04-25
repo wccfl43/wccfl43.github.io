@@ -228,6 +228,8 @@ eleventyNavigation:
       Session 4A: 9-10:30am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+      <br />
+      <small>Chair: Barbara Citko</small>
     </td>
     <td>
       Session 4B: 9-10:30am
