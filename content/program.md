@@ -376,6 +376,8 @@ eleventyNavigation:
       Session 6A: 9 - 10:00am
       <br />
       <a href="https://uw.edu/maps/?mgh">MGH</a> 231
+      <br />
+      <small>Chair: Trent Ukasick</small>
     </td>
     <td>
       Session 6B: 9 - 10:30am
